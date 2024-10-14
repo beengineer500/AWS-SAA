@@ -1,0 +1,16 @@
+# EC2 원격 접속
+---
+- SSH 연결 (Linux)
+	- SSH 프로토콜을 이용해, 인스턴스에 원격으로 연결/파일 전송 가능
+		- SSH (Secure Shell Protocol) : 보안을 통해 원격으로 접속하기 위한 방식
+			- Public Key / Private Key를 이용해 접속
+- RDP 연결 (Window)
+	- RDP 프로토콜을 이용해, 인스턴스에 원격으로 연결/파일 전송 가능
+		- RDP (Remote Desktop Protocol) 은 Window OS 에 원격으로 접속하기 위한 방식
+			- 아이디/패스워드를 이용해 접속
+- Instane Connect 연결 (Linux)
+	- AWS 콘솔 웹 브라우저를 통해 연결
+	- SSH 프로토콜을 사용하여, 일회용 SSH 퍼블릭키를 통해서 인스턴스 연결
+	- 프라이빗 키를 다운로드 받을 필요 없다.
+	- 22번 포트(SSH)가 열려 있어야 사용 가능
+	- Linux 인스턴스만 연결 가능
