@@ -1,5 +1,4 @@
 # EC2 원격 접속
----
 - SSH 연결 (Linux)
 	- SSH 프로토콜을 이용해, 인스턴스에 원격으로 연결/파일 전송 가능
 		- SSH (Secure Shell Protocol) : 보안을 통해 원격으로 접속하기 위한 방식

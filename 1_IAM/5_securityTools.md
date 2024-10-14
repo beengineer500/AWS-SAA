@@ -1,5 +1,4 @@
 # IAM Security Tools (보안도구)
----
 - IAM 자격증명 보고서 (Credential Report)
 	- 계정의 모든 사용자, 암호, 액세스 키, MFA 디바이스 등의 자격 증명 상태에 대한 보고서 다운로드 가능
 - IAM 액세스 관리자 (Access Advisor)
