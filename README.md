@@ -5,4 +5,4 @@
 
 ---
 
-<img src="AWS-SAA_Badge.png" width="50">
+<img src="AWS-SAA_Badge.png" width="100">
