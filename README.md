@@ -1,4 +1,4 @@
 # AWS Certified Solutions Architect - Associate
-- AWS SAA 취득을 위한 학습 기록
 
-- 학습 시작 : 2024-10-14 ~
+- 학습 기간 : 2024-11-18 ~ 2025-01-03
+- 자격증 취득일 : 2025-01-04
