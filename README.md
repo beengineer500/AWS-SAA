@@ -2,5 +2,7 @@
 
 - 학습 기간 : 2024-11-18 ~ 2025-01-03
 - 자격증 취득일 : 2025-01-04
-<br></br>
-![AWS-SAA_Badge](AWS-SAA_Badge.png)
+
+---
+
+<img src="AWS-SAA_Badge.png" width="300">
